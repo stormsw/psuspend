@@ -5,7 +5,7 @@ Process suspend/resume tool for win32 (built with VS2013 CE)
 ```
 psuspend <option> <pid1> <pid2> ...
 
-Where optins are:
+Where options are:
  
  [Threads operations]
 -ts Threads Suspnde
