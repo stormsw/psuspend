@@ -1,16 +1,16 @@
 # psuspend
-Process suspend/resume tool for win32
+Process suspend/resume tool for win32 (built with VS2013 CE)
 
-built with VS2013 CE
-
-Usage:
+##Usage
+```
 psuspend <option> <pid1> <pid2> ...
 
 Where optins are:
  Threads operations
--ts Threads Suspend
+-ts Threads Suspnde
 -tr Threads reusme
 -ns NT hack (undoc API) suspend
 -nr NT hack (undoc API) resume
 -ds Debugger start
 -dr Debugger resume
+```
